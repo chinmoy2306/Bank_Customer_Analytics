@@ -19,6 +19,8 @@ The Bank Customer Analytics dashboard includes the following components:
 -	Top Customers: Highlights the top five customers based on their account balances, allowing for quick identification of high-value customers.
 -	Job Classification: Analyses the total number of customers based on their job classifications, providing insights into the bank's customer base.
 -	Yearly Trends: Presents the total number of customers on a yearly basis, enabling the identification of customer growth patterns and trends over time.
+## Screenshots
+![image](https://github.com/chinmoy2306/Bank_Customer_Analytics/blob/81e3a3142e0e467e497f86712d51b5122d53ab8a/Screenshot.png)
 ## Usage
 To explore the Bank Customer Analytics dashboard:
 1.	Clone the repository: git clone https://github.com/chinmoy2306/Bank_Customer_Analytics.git
